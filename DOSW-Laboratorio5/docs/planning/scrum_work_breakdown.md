@@ -33,3 +33,12 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
 | **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
 
+
+
+#### borrador historias de uso
+1. David se acaba de crear un nequi, este ingresa 5000 pesos a su nequi y este quiere ver si su nequi recibio el dinero y quedo en su saldo
+2. Felipe quiere revisar sus ultimas 5 veces que saco dinero de su cuenta de daviplata.
+3. Ortiz pidio un prestamo en el icetex, por lo que quiere revisar si su cuenta de bancolombia aparece con deudas o no fue afectada.
+4. Salcedo quiere imprimir el estado de su cuenta, donde se vea su saldo y sus ultimos movimientos. 
+
+
