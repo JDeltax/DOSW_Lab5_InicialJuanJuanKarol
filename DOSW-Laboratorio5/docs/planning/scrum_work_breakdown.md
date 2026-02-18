@@ -9,9 +9,9 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | EP-01 |
-| **Título** | |
-| **Descripción** | *Explique el por qué Bankify necesita esta épica* |
-| **Stakeholder** | *¿Quién es el stakeholder interesado en que se implemente esta épica?* |
+| **Título** | Gestionar el estado de cuenta|
+| **Descripción** | Porque debe tener la capacidad que el usuario o asesor modifique el estado de cuenta ya sea para crear cuentas (o no habría banco) o eliminarlas por peticion de mi cliente |
+| **Stakeholder** | Pues el banco. |
 
 ### 2. Historias de usuario:
 
@@ -32,3 +32,4 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
 | **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+
