@@ -43,6 +43,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Prioridad** | *[Alta]* |
 | **Justificación** | Esta es una solicitud de alta prioridad ya que se trata de una verificación exhaustiva de obligaciones financieras del usuario. Si la información no está reflejada correctamente, puede generar errores financieros, afectar pagos o impactar directamente la situcación económica del usuario |
 | **Estimación** | *Puntos de historia* |
+| **Video**      | <video src="../images/estimacion.mp4" width="400"></video> |
 
 
 | Campo | Descripción |
