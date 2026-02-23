@@ -20,7 +20,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-01 |
 | **Título** | Confirmación saldo nequi |
 | **Descripción** | Como nuevo usuario de Nequi, quiero visualizar el saldo actualizado de mi cuenta tras realizar una recarga, para confirmar que los 5.000 pesos ingresaron correctamente y están disponibles para su uso.|
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Media]* |
+| **Justificación** | Esta es una solicitud de nivel medio, ya que es importante que la cuenta refleje todos los movimientos realizados por parte del usuario pero no es una situación que detenga el funcionamiento del sistema ni genere perdidas de fondos o fallos en las transacciones |
 | **Estimación** | *Puntos de historia* |
 
 
@@ -29,7 +30,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-02 |
 | **Título** | Historial de retiros en daviplata |
 | **Descripción** | Como usuario frecuente de Daviplata, quiero filtrar y consultar mis últimos cinco retiros de efectivo, para llevar un control preciso de mis salidas de dinero recientes.|
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Baja]* |
+| **Justificación** | Es una solicitud de baja prioridad porque la funcionalidad no apecta operaciones criticas del sistema ni del manejo de dinero, solo busca priorizar la organización y consulta de la información, generando solo un impacto mínimo |
 | **Estimación** | *Puntos de historia* |
 
 
@@ -38,7 +40,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-03 |
 | **Título** | Verificación de Obligaciones |
 | **Descripción** | Como cliente de Bancolombia con un crédito externo (ICETEX), quiero consultar el estado de mis obligaciones financieras en mi banca en línea, para verificar si el préstamo aparece reflejado como deuda o si mi cuenta de ahorros permanece sin afectaciones. |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Alta]* |
+| **Justificación** | Esta es una solicitud de alta prioridad ya que se trata de una verificación exhaustiva de obligaciones financieras del usuario. Si la información no está reflejada correctamente, puede generar errores financieros, afectar pagos o impactar directamente la situcación económica del usuario |
 | **Estimación** | *Puntos de historia* |
 
 
@@ -47,7 +50,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-04 |
 | **Título** | Reportes de movimientos |
 | **Descripción** | Como titular de una cuenta bancaria, quiero generar una versión imprimible de mi estado de cuenta que incluya el saldo actual y los movimientos recientes, para disponer de un soporte físico o digital de mi actividad financiera. |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Media]* |
+| **Justificación** | Es una solicitud de funcionalidad media porque la generación de reportes de movimiento con todo el saldo actualizado es una cuestión importante para el control financiero del usuario y para sustentar un soporte físico o digital de su actividad. No compromete el dinero ni las transacciones pero si impacta la experiencia y el seguimiento financiero. |
 | **Estimación** | *Puntos de historia* |
 
 ### 3. Tareas:
@@ -155,4 +159,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Diseñar la estructura visual del estado de cuenta para ver tanto el formato digital como impreso.|
 | **Tareas requisito** | TR-31, TR-32 |
+
 
