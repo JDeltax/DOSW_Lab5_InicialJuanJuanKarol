@@ -52,21 +52,59 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 3. Tareas:
 
+#### Primera historia de uso: Como nuevo usuario de Nequi, quiero visualizar el saldo actualizado de mi cuenta tras realizar una recarga, para confirmar que los 5.000 pesos ingresaron correctamente y están disponibles para su uso.
+
 | Campo | Descripción |
 |------|-------------|
 | **ID** | TR-01 |
-| **Título** | |
+| **Título** | Altualizacion del saldo despues de la recarga |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Desarrollar uan funcion que permita que el sistema se actualice automáticamente, haciendo que el saldo del usuario una vez se confirme la recarga de $5.000. |
+| **Tareas requisito** | Ninguna|
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-02 |
+| **Título** | visualizar el nuevo saldo en la interfaz |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Diseñar e implementar la seccion donde el usuario pueda observar su saldo actualizado después de la recarga. |
+| **Tareas requisito** | TR-01 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-03 |
+| **Título** | Confirmacion visual de la recarga |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | implementar un mensaje o comprobante tipo factura visual que confirme la recarga fue exitosa. |
+| **Tareas requisito** | TR-01, TR-02 |
+
+#### Segunda Historia: Como usuario frecuente de Daviplata, quiero filtrar y consultar mis últimos cinco retiros de efectivo, para llevar un control preciso de mis salidas de dinero recientes.
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-11 |
+| **Título** | implementar una consulta de retiros|
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | Desarrollar la lógica que permita consultar las transacciones de retiros realizados por el usuario.|
+| **Tareas requisito** | Ninguna|
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-12 |
+| **Título** | Aplicar un filtro para mostrar los ultimos cinco retiros |
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | Implementar un filtro que limite la visualización a los ultimos cinco retiros. |
+| **Tareas requisito** | TR-11 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-13 |
+| **Título** | Diseñar la interfaz de visualización de retiros |
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | Diseñar o adaptar una pantalla donde el usuario pueda visualizar los últimos cinco retiros. |
+| **Tareas requisito** | TR-11 |
 
 
-
-#### borrador historias de uso
-1. David se acaba de crear un nequi, este ingresa 5000 pesos a su nequi y este quiere ver si su nequi recibio el dinero y quedo en su saldo
-2. Felipe quiere revisar sus ultimas 5 veces que saco dinero de su cuenta de daviplata.
-3. Ortiz pidio un prestamo en el icetex, por lo que quiere revisar si su cuenta de bancolombia aparece con deudas o no fue afectada.
-4. Salcedo quiere imprimir el estado de su cuenta, donde se vea su saldo y sus ultimos movimientos. 
 
 
 
