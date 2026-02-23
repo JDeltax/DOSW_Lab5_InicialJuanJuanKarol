@@ -6,3 +6,9 @@
 
 ### Objetivo
 El objetico de este laboratorio es aplicar y utilizar herramientas de framework utiles como Scrum y Kanban a partir de un caso de estudio practico 
+
+### Roles definidos
+Los roles que se definieron fueron:
+- Scrum Master: Juan Pablo Vega
+- Product Owner: Karol Ximena Reyes
+- Desarrollador: Juan David Moreno
