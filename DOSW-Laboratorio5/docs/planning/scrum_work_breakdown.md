@@ -43,9 +43,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Prioridad** | *[Alta]* |
 | **Justificación** | Esta es una solicitud de alta prioridad ya que se trata de una verificación exhaustiva de obligaciones financieras del usuario. Si la información no está reflejada correctamente, puede generar errores financieros, afectar pagos o impactar directamente la situcación económica del usuario |
 | **Estimación** | *Puntos de historia* |
-**Video de Estimación:**
-<video src="../images/estimacion.mp4" width="400" controls></video>
-
+| **Video**      |  [Ver video](../images/estimacion.mp4) 
 
 | Campo | Descripción |
 |------|-------------|
@@ -161,6 +159,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Diseñar la estructura visual del estado de cuenta para ver tanto el formato digital como impreso.|
 | **Tareas requisito** | TR-31, TR-32 |
+
 
 
 
