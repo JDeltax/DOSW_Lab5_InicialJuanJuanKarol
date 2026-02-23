@@ -104,7 +104,55 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | Diseñar o adaptar una pantalla donde el usuario pueda visualizar los últimos cinco retiros. |
 | **Tareas requisito** | TR-11 |
 
+#### Tercera entrega: Como cliente de Bancolombia con un crédito externo (ICETEX), quiero consultar el estado de mis obligaciones financieras en mi banca en línea, para verificar si el préstamo aparece reflejado como deuda o si mi cuenta de ahorros permanece sin afectaciones.
 
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-21 |
+| **Título** | Integracion para consulta de de obligaciones financieras externas |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | Desarrollar una funcionalidad que permita consultar y mostrar en línea las obligaciones financieras del cliente, esto incluyendo créditos externos asociados (como ICETEX). |
+| **Tareas requisito** | Ninguna |
 
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-22 |
+| **Título** | Visualización del impacto en la cuenta de ahorros |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | Implementar la lógica que permita verificar si el crédito externo afecta la cuenta de ahorros del cliente. |
+| **Tareas requisito** | TR-21 |
 
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-23 |
+| **Título** | Diseño de la interfaz de consulta de obligaciones financieras. |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | Diseñar la sección de la banca en línea donde el usuario pueda consultar el estado de sus deudas. |
+| **Tareas requisito** | TR-21, TR-22 |
+
+#### Cuarta Historia: Como titular de una cuenta bancaria, quiero generar una versión imprimible de mi estado de cuenta que incluya el saldo actual y los movimientos recientes, para disponer de un soporte físico o digital de mi actividad financiera.
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-31 |
+| **Título** | Generación del estado de cuenta en formato que se pueda imprimir. |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | Desarrollar la funcionalidad que permita generar el estado de cuenta en un formato para imprimir (PDF por ejemplo). |
+| **Tareas requisito** | Ninguna |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-32 |
+| **Título** | Inclusión del saldo actual y movimientos recientes. |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | Implementar la lógica que incluya en el documento el saldo actual y el listado de movimientos recientes. |
+| **Tareas requisito** | TR-31 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-32 |
+| **Título** | Diseño del formato visual del estado de cuenta |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | Diseñar la estructura visual del estado de cuenta para ver tanto el formato digital como impreso.|
+| **Tareas requisito** | TR-31, TR-32 |
 
