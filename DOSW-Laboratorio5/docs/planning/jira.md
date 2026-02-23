@@ -5,7 +5,7 @@
 La implementación de los requerimientos identificados de Bankify se desglosa de la siguiente manera:
 
 ### 1. Épica:
-
+![Imagen Epica](docs/images/vistaEpica.jpeg)
 
 ### 2. Historias de usuario:
 
@@ -17,3 +17,4 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 
 ### 5. Backlog:
+
