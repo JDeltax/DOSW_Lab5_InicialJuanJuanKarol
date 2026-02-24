@@ -42,3 +42,11 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 ![Backlog](../images/Backlog.png)
+
+
+### 6. Sprint Backlog:
+![Backlog](../images/repart.jpeg)
+
+#### EXPLICACIÓN:
+
+
