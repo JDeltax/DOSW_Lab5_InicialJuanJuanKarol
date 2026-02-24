@@ -42,3 +42,12 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 ![Backlog](../images/Backlog.png)
+
+
+### 6. Sprint Backlog:
+![Backlog](../images/repart.jpeg)
+
+#### EXPLICACIÓN:
+
+la distribucion de tareas fue decidida en base a los roles pactados en el laboratorio anterior donde el integrante Juan Pablo Vega realizaria el backend, Karol Ximena Rodriguez el Frontend y Juan David Moreno lo relacionado con la base de datos. por lo que se les asigno una tarea relacionada con su rol y las fortalezas de cada uno
+
